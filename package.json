@@ -3,9 +3,7 @@
   "description": "Use Puppeteer to run lighthouse audits",
   "version": "0.2.3",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "zautumnz"
   },
   "license": "MIT",
   "main": "index.js",
@@ -19,12 +17,12 @@
     "test": "npm run test:lint",
     "test:lint": "eslint -c .eslintrc.json *.js"
   },
-  "homepage": "https://github.com/zacanger/litepup#readme",
+  "homepage": "https://github.com/zautumnz/litepup#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/litepup.git"
+    "url": "https://github.com/zautumnz/litepup.git"
   },
-  "bugs": "https://github.com/zacanger/litepup/issues",
+  "bugs": "https://github.com/zautumnz/litepup/issues",
   "keywords": [
     "audit",
     "chrome",
@@ -44,7 +42,6 @@
   "devDependencies": {
     "babel-eslint": "10.0.1",
     "eslint": "5.9.0",
-    "eslint-config-zacanger": "3.4.1",
     "eslint-plugin-babel": "5.3.0",
     "eslint-plugin-import": "2.14.0",
     "eslint-plugin-node": "8.0.0",
